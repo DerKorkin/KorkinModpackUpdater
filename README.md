@@ -1,2 +1,2 @@
 # KorkinModpackUpdater
-The Repo for my ModpackUpdater, it contains german texts and spaghetti code but its relatively easy to "link" it to your repos and stuffs.
+I will upload it as soon as it has a finished working build.
